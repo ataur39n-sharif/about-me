@@ -18,20 +18,17 @@ p{
     height: 500px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    border: 1px solid red;
 }
 .secection2{
     height: 500px;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    border: 1px solid red;
     background-position: right;
 }
 .secection3{
     height: 500px;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    border: 1px solid red;
     background-position: left;
 }
 .half-width{
@@ -40,7 +37,6 @@ p{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-    border: 1px solid red;
 }
 
 .half-width img{

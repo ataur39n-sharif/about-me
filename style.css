@@ -1,0 +1,72 @@
+body{
+    font-family: 'Redressed', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.text-color{
+    color: orange;
+}
+p{
+    color: dimgray;
+}
+.secection1{
+    height: 500px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    border: 1px solid red;
+}
+.secection2{
+    height: 500px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    border: 1px solid red;
+    background-position: right;
+}
+.secection3{
+    height: 500px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    border: 1px solid red;
+    background-position: left;
+}
+.half-width{
+    width: 40%;
+    height: 100%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border: 1px solid red;
+}
+
+.half-width img{
+  width: 100%;
+}
+.exp{
+    text-align: center;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+#baby-stack{
+    border-left: 7px solid;
+    border-image:
+    2 linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+.shadow{
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 70%;
+}
+footer p{
+    text-align: center;
+    font-size: bold;
+}
